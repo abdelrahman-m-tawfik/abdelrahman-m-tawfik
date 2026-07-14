@@ -1,8 +1,7 @@
 ```markdown
 <div align="center">
 
-<img src="https://github.com/abdelrahman-m-tawfik/abdelrahman-m-tawfik/commit/62ad3b4047d548c460353471846c15cef4b80aa1#diff-0180200372c5590f9b4bec6b05b6bcf51ec45c3bf4e4b319c995875dd2f0c990" width="100%" alt="GitHub Banner"/>
-
+<img src="https://raw.githubusercontent.com/abdelrahman-m-tawfik/abdelrahman-m-tawfik/main/github-banner.png.png" width="100%" alt="GitHub Banner"/>
 # Hi 👋, I'm Abdelrahman Mohamed
 
 ### Artificial Intelligence Engineer | Data Analyst | Machine Learning Engineer
