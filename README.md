@@ -2,12 +2,14 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/abdelrahman-m-tawfik/abdelrahman-m-tawfik/main/github-banner.png.png" width="100%" alt="GitHub Banner"/>
+
 # Hi 👋, I'm Abdelrahman Mohamed
 
 ### Artificial Intelligence Engineer | Data Analyst | Machine Learning Engineer
 
-<p>
-<a href="https://www.linkedin.com/in/abdelrahman-m-tawfikk">
+</div>
+
+---
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
